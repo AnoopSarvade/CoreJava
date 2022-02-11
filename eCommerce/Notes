@@ -79,8 +79,8 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
-Anups-MacBook-Pro:eCommerce anupsarvade$ git config --global user.name "anoopsarvade@gmail.com"
-Anups-MacBook-Pro:eCommerce anupsarvade$ git config --global user.password "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"
+Anups-MacBook-Pro:eCommerce anupsarvade$ """"""""""""""""""""""""""""""""git config --global user.name "anoopsarvade@gmail.com"""""""""""""""""""""""
+Anups-MacBook-Pro:eCommerce anupsarvade$ """"""""""""""""""""""""""""""""git config --global user.password "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""""""""""""""""""""""""
 Anups-MacBook-Pro:eCommerce anupsarvade$ git commit -m "nottes"
 On branch master
 Changes not staged for commit:
